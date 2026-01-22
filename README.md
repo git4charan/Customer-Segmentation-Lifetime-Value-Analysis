@@ -37,15 +37,16 @@ Interactive visualizations were created to explore customer segments:
 
 Screenshots are available in the `powerbi/` directory.
 
-## Repository Structure
+### Repository Structure
+
+```text
 Customer-Segmentation-LTV/
 ├── data/
 ├── notebooks/
 ├── outputs/
 ├── powerbi/
 └── README.md
-
-
+```
 
 ## How to Run
 1. Clone the repository
