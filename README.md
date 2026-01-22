@@ -29,6 +29,15 @@ The analysis is designed to support data-driven marketing, retention, and priori
 - Clear distinction between loyal, potential, and at-risk customers
 - Segmentation enables targeted retention and reactivation strategies
 
+## Data Access
+The raw dataset used in this project is not included in the repository due to licensing and usage restrictions.  
+The dataset is publicly available on Kaggle and can be downloaded from the following link:
+
+- [Online Retail II (UCI) Dataset – Kaggle](https://www.kaggle.com/datasets/mashlyn/online-retail-ii-uci)
+
+To run the analysis, download the dataset and place it in the `data/` directory.
+
+
 ## Power BI Dashboard
 Interactive visualizations were created to explore customer segments:
 - Treemap of revenue contribution by segment
